@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm **Monjur Morshed**  
 
-![Header GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 🎓 **B.Sc. (Engineering) in Information & Communication Engineering (ICE)**  
 📍 Pabna University of Science and Technology, Bangladesh  
