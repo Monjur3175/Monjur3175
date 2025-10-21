@@ -1,79 +1,76 @@
-# 👋 Hi there, I'm **Monjur Morshed**
+# 👋 Hi there, I'm **Monjur Morshed**  
 
-![Monjur Morshed](https://monjurmorshedportfolio.netlify.app/assets/images/monjur.jpg)
 
-**IT Executive at NextNode**  
-**Competitive Programmer** | **Web Developer Aspirant**  
-📍 Rajshahi, Bangladesh
+🎓 **B.Sc. (Engineering) in Information & Communication Engineering (ICE)**  
+📍 Pabna University of Science and Technology, Bangladesh  
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
+I’m a passionate **tech enthusiast**, exploring **Cyber Security**, **Full-Stack Web Development**, and **Blockchain Development**.  
+I love learning new technologies, building real-world projects, and sharing knowledge.
 
-I'm an enthusiastic IT professional passionate about leveraging technology to create innovative solutions. Currently serving as an IT Executive at **NextNode**, I specialize in:
-
-- **C++** (OOP, DSA)
-- **Python**
-- **Kotlin**
-- **MERN Stack Web Development**
-- **Problem Solving**
-
-I am committed to continuous learning and applying my skills to real-world challenges.
+💡 Fun fact: Coffee fuels my coding sessions ☕🚀
 
 ---
 
-## 🛠️ Skills
+## 🧠 Currently Learning
+- 🧩 **Data Structures & Algorithms** (C++)  
+- ☁️ **AWS Cloud & Linux Administration**  
+- ⚙️ **Kotlin & Android Development**  
+- 🌐 **Full-Stack Web Development (MERN)**  
+ 
+---
 
-- **Languages**: C++, Python, Kotlin
-- **Web Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Problem Solving**: Competitive Programming
-- **Tools & Technologies**: Git, Linux, VS Code, Postman
+## 🛠️ Tech Stack
+
+### 💻 Programming
+C | C++ | Python | Kotlin | JavaScript | HTML | CSS  
+
+### 🧩 Frameworks & Tools
+Node.js | Tailwind CSS | Git | Linux | AWS  
+
+### 🧠 Concepts
+OOP | DSA | Networks | Operating Systems | IoT
 
 ---
 
-## 💼 Experience
+## 🚀 Notable Projects  
 
-**IT Executive**  
-*NextNode* | *Present*  
-- Managing and optimizing IT infrastructure.
-- Developing and maintaining internal tools and systems.
-- Collaborating with cross-functional teams to implement tech solutions.
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 💧 **Rain Detection System** | Detects rain and triggers alerts automatically | Arduino, C++ |
+| 🏥 **MediSpark** *(Hult Prize 2025)* | Comprehensive healthcare platform | React, Node.js, MongoDB |
+| 🍽️ **Mess Management System** | Desktop system for hostel mess operations | C++ |
+---
+
+## 🏆 Certifications
+- AWS Cloud Practitioner Essentials ☁️  
+- Linux Essentials 🐧  
+- System Administration (Microsoft & LinkedIn) 🖥️  
+- IoT Fundamentals (Udemy) 🌐  
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats  
 
-- **Project 1**: Description of Project 1.
-- **Project 2**: Description of Project 2.
-- **Project 3**: Description of Project 3.
-
-*Note: Replace with actual project names and descriptions.*
+![Monjur's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjur-morshed&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monjur-morshed&layout=compact&theme=radical)  
 
 ---
 
-## 🎓 Certifications
-
-- **Certification 1**: Issuing Organization | Date
-- **Certification 2**: Issuing Organization | Date
-- **Certification 3**: Issuing Organization | Date
-
-*Note: Replace with actual certifications.*
+## 📈 Contributions & Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monjur-morshed&theme=radical)  
+![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=monjur-morshed.monjur-morshed)  
 
 ---
 
-## 📬 Contact Me
+## 🌐 Connect with Me  
 
-- 📧 Email: [monjurmorshedosama75@gmail.com](mailto:monjurmorshedosama75@gmail.com)
-- 📞 Phone: +880 1997-007988
-- 📍 Address: 178, Kazihata, Rajpara, Rajshahi-6000, Bangladesh
-
----
-
-## 🔗 Connect with Me
-
-- [GitHub](https://github.com/monjur-morshed)
-- [LinkedIn](https://www.linkedin.com/in/monjur-morshed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/monjur-morshed](https://www.linkedin.com/in/monjur-morshed-182566291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monjurmorshedosama75@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Monjur3175)  
 
 ---
 
-⭐ "Striving to build a smarter and more connected world through technology."
+⭐ **"Keep learning, keep building, and stay curious!"**  
