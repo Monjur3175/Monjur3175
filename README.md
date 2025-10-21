@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate **tech enthusiast**, exploring **Cyber Security**, **Full-Stack Web Development**, and **Blockchain Development**.  
+I’m a passionate **tech enthusiast**, exploring **Full-Stack Web Development(MERN)**, and **Data Structure and Algorithm**.  
 I love learning new technologies, building real-world projects, and sharing knowledge.
 
 💡 Fun fact: Coffee fuels my coding sessions ☕🚀
@@ -16,7 +16,7 @@ I love learning new technologies, building real-world projects, and sharing know
 
 ## 🧠 Currently Learning
 - 🧩 **Data Structures & Algorithms** (C++)  
-- ☁️ **AWS Cloud & Linux Administration**  
+- ☁️ **Linux Administration**  
 - ⚙️ **Kotlin & Android Development**  
 - 🌐 **Full-Stack Web Development (MERN)**  
  
@@ -54,14 +54,11 @@ OOP | DSA | Networks | Operating Systems | IoT
 
 ## 📊 GitHub Stats  
 
-![Monjur's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjur-morshed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monjur-morshed&layout=compact&theme=radical)  
-
----
-
+![Monjur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monjur3175&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monjur3175&layout=compact&theme=radical)
 ## 📈 Contributions & Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monjur-morshed&theme=radical)  
-![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=monjur-morshed.monjur-morshed)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monjur3175&theme=radical)  
+![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=Monjur3175.Monjur3175)  
 
 ---
 
